@@ -2,7 +2,7 @@
 
 <img src="https://github.com/rohit2701singh/Hangman-with-GUI-using-tkinter/assets/156118970/ab2fc37f-700a-475b-b4c4-be916c101d28">
 
-<img src="https://github.com/rohit2701singh/Hangman-with-GUI-using-tkinter/assets/156118970/b23c87c0-0c56-4cdb-9997-a15e69e089e6)l">
+<img src="https://github.com/rohit2701singh/Hangman-with-GUI-using-tkinter/assets/156118970/b23c87c0-0c56-4cdb-9997-a15e69e089e6">
 
 <img src="https://github.com/rohit2701singh/Hangman-with-GUI-using-tkinter/assets/156118970/70cdf81a-3124-4057-8b17-61a51ffa9f4e">
 
